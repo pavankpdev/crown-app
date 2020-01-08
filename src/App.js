@@ -4,11 +4,7 @@ import "./App.css";
 import Homepage from "./Pages/HomePage/homepage.component";
 import ShopPage from "./Shop/shop.component";
 
-const HatsPage = () => (
-  <div>
-    <h1>Hats Page</h1>
-  </div>
-);
+
 
 function App() {
   return (
